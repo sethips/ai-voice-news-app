@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300&display=swap");
+.newscard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 !important;
+  box-shadow: 0 70px 140px 0 rgba(130, 136, 171, 0.2) !important;
+  font-family: "Poppins", sans-serif !important;
+  width: 100%;
+  border: 1px solid #eee;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='30' viewBox='0 0 1000 120'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='6.4' stroke-opacity='0.33'%3E%3Cpath d='M-500 75c0 0 125-30 250-30S0 75 0 75s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 45c0 0 125-30 250-30S0 45 0 45s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 105c0 0 125-30 250-30S0 105 0 105s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 15c0 0 125-30 250-30S0 15 0 15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500-15c0 0 125-30 250-30S0-15 0-15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 135c0 0 125-30 250-30S0 135 0 135s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3C/g%3E%3C/svg%3E") !important;
+  height: 75vh;
+  border-radius: 15px;
+}
+.newscard h2 {
+  font-family: "Playfair Display", serif !important;
+  font-weight: 600;
+}
+.media {
+  height: 250px;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  font-family: "Poppins", sans-serif !important;
+}
+.title {
+  padding: 0 16px;
+}
+.cardActions {
+  padding: 0 16px 8px 16px;
+  display: flex !important;
+  justify-content: space-between !important;
+}
+.mid {
+  flex: 1 !important;
+  overflow: hidden;
+}
+.activenewsCard {
+  border-bottom: 10px solid #22289a;
+  height: 75vh;
+}
+.activenewsCard h2 {
+  font-family: "Playfair Display", serif !important;
+  font-weight: 600;
+}
