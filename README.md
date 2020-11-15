@@ -2,6 +2,12 @@
 
 This is superb voice optimised AI News application that could help you retrive latest news from news source as well as news of a particular person. This app has very nice good UI that could attract users into it, It Has so many features and also provides friendliness by answering moontalks like how are you, Are you going good, etc. We can also open up articles by saying 'open article 5' or 'open 5' or 'open no 5', etc. 
 
+Watch this video to understand better. <br>
+<a href='https://youtu.be/r3Dev85xXxI'><img src="https://raw.githubusercontent.com/saviomartin/ai-voice-news-app/main/public/def-hacks.png" width='50%'></a>
+
+# Live Website
+[https://ai-voice-news.web.app/](https://ai-voice-news.web.app/)
+
 # Features
 
 - **Voice to retrive news from a source** <br>
@@ -18,7 +24,7 @@ This is superb voice optimised AI News application that could help you retrive l
   Eg: Go back
 - **Superb UI** <br>
   Made in figma
-- **Fully Responsive**
+- **Fully Responsive** <br>
   Compactible with all devices like mobiles, laptops and ipads.
   
   ## Developed By Savio Martin
