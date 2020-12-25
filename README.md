@@ -1,35 +1,35 @@
+
 # AI Conversational Voice Recognition News App
 This app will fetch you the latest news from different sources simply through your Voice. 🗣️
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin/ai-voice-news-app"/>
-    <img src="https://img.shields.io/badge/Ethical_Design-_%E2%96%B2_%E2%9D%A4_-blue.svg"/>
-    <!--Links -->
-    <a href="https://github.com/saviomartin/ai-voice-news-app/stargazers" target="blank">
-        <img src="https://img.shields.io/github/stars/saviomartin/ai-voice-news-app"/>
-    </a>
-    <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
-        <img src="https://img.shields.io/github/license/saviomartin/ai-voice-news-app"/>
-    </a>
-    <a href="https://gitHub.com/saviomartin/ai-voice-news-app/issues/" target="blank">
-        <img src="https://img.shields.io/github/issues/saviomartin/ai-voice-news-app.svg"/>
-    </a>
-    <a href="https://GitHub.com/saviomartin/ai-voice-news-app/pull/" target="blank">
-        <img src="https://img.shields.io/github/issues-pr/saviomartin/ai-voice-news-app.svg"/>
-    </a>
-    <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
-        <img src="https://img.shields.io/github/forks/saviomartin/ai-voice-news-app"/>
-    </a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin/ai-voice-news-app"/>
+<img src="https://img.shields.io/badge/Ethical_Design-_%E2%96%B2_%E2%9D%A4_-blue.svg"/>
+<!--Links -->
+<a href="https://github.com/saviomartin/ai-voice-news-app/stargazers" target="blank">
+    <img src="https://img.shields.io/github/stars/saviomartin/ai-voice-news-app"/>
+</a>
+<a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
+    <img src="https://img.shields.io/github/license/saviomartin/ai-voice-news-app"/>
+</a>
+ <a href="https://gitHub.com/saviomartin/ai-voice-news-app/issues/" target="blank">
+     <img src="https://img.shields.io/github/issues/saviomartin/ai-voice-news-app.svg"/>
+ </a>
+ <a href="https://GitHub.com/saviomartin/ai-voice-news-app/pull/" target="blank">
+      <img src="https://img.shields.io/github/issues-pr/saviomartin/ai-voice-news-app.svg"/>
+ </a>
+ <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
+     <img src="https://img.shields.io/github/forks/saviomartin/ai-voice-news-app"/>
+  </a>
     <a href="https://GitHub.com/saviomartin/ai-voice-news-app/graphs/contributors/" target="blank">
         <img src="https://img.shields.io/github/contributors/saviomartin/ai-voice-news-app.svg"/>
     </a>
     <!--Commits -->
     <img src="https://img.shields.io/github/last-commit/saviomartin/ai-voice-news-app.svg"/>
----
 
 ## Project Overview ⚡
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608873764695/-z-2M5Xzi.png"/>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608873764695/-z-2M5Xzi.png" width='50%'/>
 
 AI Voice Recognition News App is a simple yet powerful project built with React and Alan AI. This app could deliver you the latest news from top sources like BBC, CNN, etc simply through your voice. For example: "Give me the latest news from CNN" could deliver you the latest news from CNN. Also, it could deliver the top news by sorting into categories. For example: "Give me the latest sports news", this would deliver the latest sports news. And next, this app could give you the latest news about a particular object or a person. For example: "What's up with ps5" will give you the latest news about ps5. The app should be well sufficient with the best UI and should fully responsive. This app also has the ability to answer moon talks like 'How are you' or 'Where do you come from' etc.
 
