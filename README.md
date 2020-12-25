@@ -2,11 +2,10 @@
 # AI Conversational Voice Recognition News App
 This app will fetch you the latest news from different sources simply through your Voice. 🗣️
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin/ai-voice-news-app"/>
-<img src="https://img.shields.io/badge/Ethical_Design-_%E2%96%B2_%E2%9D%A4_-blue.svg"/>
-<!--Links -->
-<a href="https://github.com/saviomartin/ai-voice-news-app/stargazers" target="blank">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin/ai-voice-news-app"/> 
+<img src="https://img.shields.io/badge/Ethical_Design-_%E2%96%B2_%E2%9D%A4_-blue.svg"/> 
+<a href="https://github.com/saviomartin/ai-voice-news-app/stargazers" target="blank"> 
     <img src="https://img.shields.io/github/stars/saviomartin/ai-voice-news-app"/>
 </a>
 <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
@@ -14,18 +13,17 @@ This app will fetch you the latest news from different sources simply through yo
 </a>
  <a href="https://gitHub.com/saviomartin/ai-voice-news-app/issues/" target="blank">
      <img src="https://img.shields.io/github/issues/saviomartin/ai-voice-news-app.svg"/>
- </a>
- <a href="https://GitHub.com/saviomartin/ai-voice-news-app/pull/" target="blank">
+</a>
+<a href="https://GitHub.com/saviomartin/ai-voice-news-app/pull/" target="blank">
       <img src="https://img.shields.io/github/issues-pr/saviomartin/ai-voice-news-app.svg"/>
- </a>
- <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
+</a>
+<a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
      <img src="https://img.shields.io/github/forks/saviomartin/ai-voice-news-app"/>
-  </a>
-    <a href="https://GitHub.com/saviomartin/ai-voice-news-app/graphs/contributors/" target="blank">
-        <img src="https://img.shields.io/github/contributors/saviomartin/ai-voice-news-app.svg"/>
-    </a>
-    <!--Commits -->
-    <img src="https://img.shields.io/github/last-commit/saviomartin/ai-voice-news-app.svg"/>
+ </a>
+<a href="https://GitHub.com/saviomartin/ai-voice-news-app/graphs/contributors/" target="blank">
+   <img src="https://img.shields.io/github/contributors/saviomartin/ai-voice-news-app.svg"/>
+</a>
+<img src="https://img.shields.io/github/last-commit/saviomartin/ai-voice-news-app.svg"/>
 
 ## Project Overview ⚡
 
