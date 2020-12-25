@@ -1,30 +1,102 @@
-# AI Voice News App
+<p align='center'>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608873764695/-z-2M5Xzi.png"/>
+</p>
+<h1 align="center">
+  AI Conversational Voice Recognition News App
+</h1>
+<p align="center">
+  This app will fetch you the latest news from different sources simply through your Voice. 🗣️
+</p>
+<p align="center">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin/ai-voice-news-app"/>
+    <img src="https://img.shields.io/badge/Ethical_Design-_%E2%96%B2_%E2%9D%A4_-blue.svg"/>
+    <!--Links -->
+    <a href="https://github.com/saviomartin/ai-voice-news-app/stargazers" target="blank">
+        <img src="https://img.shields.io/github/stars/saviomartin/ai-voice-news-app"/>
+    </a>
+    <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
+        <img src="https://img.shields.io/github/license/saviomartin/ai-voice-news-app"/>
+    </a>
+    <a href="https://gitHub.com/saviomartin/ai-voice-news-app/issues/" target="blank">
+        <img src="https://img.shields.io/github/issues/saviomartin/ai-voice-news-app.svg"/>
+    </a>
+    <a href="https://GitHub.com/saviomartin/ai-voice-news-app/pull/" target="blank">
+        <img src="https://img.shields.io/github/issues-pr/saviomartin/ai-voice-news-app.svg"/>
+    </a>
+    <a href="https://github.com/saviomartin/ai-voice-news-app/blob/master/LICENSE" target="blank">
+        <img src="https://img.shields.io/github/forks/saviomartin/ai-voice-news-app"/>
+    </a>
+    <a href="https://GitHub.com/saviomartin/ai-voice-news-app/graphs/contributors/" target="blank">
+        <img src="https://img.shields.io/github/contributors/saviomartin/ai-voice-news-app.svg"/>
+    </a>
+    <!--Commits -->
+    <img src="https://img.shields.io/github/last-commit/saviomartin/ai-voice-news-app.svg"/>
+</p>
 
-This is superb voice optimised AI News application that could help you retrive latest news from news source as well as news of a particular person. This app has very nice good UI that could attract users into it, It Has so many features and also provides friendliness by answering moontalks like how are you, Are you going good, etc. We can also open up articles by saying 'open article 5' or 'open 5' or 'open no 5', etc. 
+---
 
-Watch this video to understand better. <br>
-<a href='https://youtu.be/r3Dev85xXxI'><img src="https://raw.githubusercontent.com/saviomartin/ai-voice-news-app/main/public/def-hacks.png" width='50%'></a>
+## Live Demo of Discord Clone 🔥
 
-# Live Website
-[https://ai-voice-news.web.app/](https://ai-voice-news.web.app/)
+![Website Up](https://img.shields.io/website?url=https://ai-voice-news.web.app/&logo=github&style=flat-square) <br>
 
-# Features
+View the app live, share the happiness [https://ai-voice-news.web.app/](https://ai-voice-news.web.app/) <br>
+**⭐ this project, if you found it helpful**
+
+## AI Voice News App Features 🎮
 
 - **Voice to retrive news from a source** <br>
-  Eg: Give me the latest news from CNN
+  Say 'Give me the latest news from CNN'
 - **Voice to retrive news about something** <br>
-  Eg: What's up with playstation 5
+  Say 'What's up with playstation 5'
 - **Voice to retrive news from a topic** <br>
-  Eg: Give me the latest sports news 
+  Say 'Give me the latest sports news'
 - **Read us headlines of top news** <br>
-  Eg: Ans 'yes' when the bot asks
+  Ans 'yes' when the bot asks
 - **Voice to open articles** <br>
-  Eg: Open article 4
+  Say 'Open article 4'
 - **Voice to go back to home** <br>
-  Eg: Go back
+  Say 'Go back'
 - **Superb UI** <br>
-  Made in figma
+  Well designed UI created in Figma
 - **Fully Responsive** <br>
   Compactible with all devices like mobiles, laptops and ipads.
-  
-  ## Developed By Savio Martin
+
+## Build 🚀
+
+**1. Clone the repo**
+```javascript
+git clone https://github.com/saviomartin/ai-voice-news-app.git
+```
+
+**3. Entering project directory**
+```javascript
+cd ai-voice-news-app/
+```
+
+**3. Installing Dependencies**
+```javascript
+npm install
+```
+
+**4. Starting server**
+```javascript
+npm start
+```
+
+**4. Production Build For Deployment**
+```javascript
+npm run build
+```
+
+## Contributing 🤗
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License 🛡️
+
+Discord Clone is licensed under the MIT license. [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+<h5 align='center'>'⭐' this project, if you found it helpful</h5>
