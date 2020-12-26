@@ -14,7 +14,7 @@ const App = () => {
 
   const classes = useStyles();
   const key =
-    "64370f4c903e66c5b517887fefa45c1b2e956eca572e1d8b807a3e2338fdd0dc/stage";
+    "MY_PERSONAL_KEY";
 
   useEffect(() => {
     alanBtn({
