@@ -8,6 +8,12 @@ This app will fetch you the latest news from different sources simply through yo
 
 AI Voice Recognition News App is a simple yet powerful project built with React and Alan AI. This app could deliver you the latest news from top sources like BBC, CNN, etc simply through your voice. For example: "Give me the latest news from CNN" could deliver you the latest news from CNN. Also, it could deliver the top news by sorting into categories. For example: "Give me the latest sports news", this would deliver the latest sports news. And next, this app could give you the latest news about a particular object or a person. For example: "What's up with ps5" will give you the latest news about ps5. The app should be well sufficient with the best UI and should fully responsive. This app also has the ability to answer moon talks like 'How are you' or 'Where do you come from' etc.
 
+## Try It out 🔥
+
+- [https://ai-voice-news.web.app/](https://ai-voice-news.web.app/)
+- [https://github.com/saviomartin](https://github.com/saviomartin)
+- [https://youtu.be/QssSkIu64yU](https://youtu.be/QssSkIu64yU)
+
 ## AI Voice News App Features 🎮
 
 - **Voice to retrive news from a source** <br>
